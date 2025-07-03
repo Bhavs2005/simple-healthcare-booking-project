@@ -1,2 +1,2 @@
-# simple-healthcare-booking-project
-simple health care booking project
+#Decentralized Health Care Management
+Decentralized Health Care Management
